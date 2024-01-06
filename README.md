@@ -1,4 +1,5 @@
 **Analyzing Used Car Listings on eBay Kleinanzeigen**
+
 We will be working on a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.
 
 The dataset was originally scraped and uploaded to [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data). The version of the dataset we are working with is a sample of 50,000 data points that was prepared by [Dataquest](https://www.dataquest.io/) including simulating a less-cleaned version of the data.
